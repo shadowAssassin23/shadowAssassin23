@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Puneet Ayam
+# 👋 Hi, I'm GitHub_user
 
 **CSE Student • Full-Stack Developer • AI Agent Enthusiast**  
 📍 India
@@ -15,6 +15,6 @@ Python • Git • Postman • VS Code
 - TaskFlow App  
 
 ### 📫 Contact  
-**LinkedIn:** puneet-ayam  
-**GitHub:** shadowAssassin23  
-**Email:** puneetayam23@gmail.com
+**LinkedIn:** user_name 
+**GitHub:** user_name 
+**Email:** user_name@gmail.com
