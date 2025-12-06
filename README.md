@@ -1,42 +1,20 @@
-# 👋 Hey, I'm Puneet Ayam
+# 👋 Hi, I'm Puneet Ayam
 
-### CSE Student • Full-Stack Developer • AI Agent Enthusiast  
-📍 Based in India
+**CSE Student • Full-Stack Developer • AI Agent Enthusiast**  
+📍 India
 
-I enjoy building **full-stack applications**, creating **AI-powered automations**, and exploring how technology can solve real-world problems. I focus on writing clean, efficient code and delivering projects that actually work in production.
+I build full-stack apps, experiment with AI automations, and love turning ideas into working products.
 
----
+### 🔧 Skills & Tools  
+React • Tailwind • Node.js • Express • MongoDB  
+Python • Git • Postman • VS Code
 
-## 🚀 What I'm Good At
-- Full-stack development (Frontend + Backend)
-- AI automations & agent workflows  
-- Problem-solving & debugging  
-- Clean architecture and API design  
+### 📂 Projects  
+- AI Note Assistant  
+- Expense Tracker  
+- TaskFlow App  
 
----
-
-## 🛠 Tools & Technologies I Use
-**Frontend:** React, Tailwind, JavaScript  
-**Backend:** Node.js, Express, MongoDB, REST APIs  
-**AI & Automation:** Python, LangChain basics, agents  
-**Others:** Git, GitHub, Postman, VS Code  
-
----
-
-## 📂 Some Projects
-- **Smart Expense Tracker** – Full-stack app to manage expenses  
-- **AI-Note Assistant** – Tool that extracts, summarizes, and translates notes  
-- **TaskFlow** – Minimal productivity app with clean UI  
-
-*(More projects coming soon—always building!)*
-
----
-
-## 📫 Reach Me
-- **LinkedIn:** https://linkedin.com/in/puneet-ayam  
-- **GitHub:** https://github.com/shadowAssassin23  
-- **Email:** puneetayam23@gmail.com  
-
----
-
-💡 *Always learning. Always building. Always exploring what's next.*
+### 📫 Contact  
+**LinkedIn:** puneet-ayam  
+**GitHub:** shadowAssassin23  
+**Email:** puneetayam23@gmail.com
