@@ -15,6 +15,6 @@ Python • Git • Postman • VS Code
 - TaskFlow App  
 
 ### 📫 Contact  
-**LinkedIn:** user_name 
-**GitHub:** user_name 
-**Email:** user_name@gmail.com
+- **LinkedIn:** user_name 
+- **GitHub:** user_name 
+- **Email:** user_name@gmail.com
